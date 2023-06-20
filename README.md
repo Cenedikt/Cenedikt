@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benedict</h1>
 <h3 align="center">I am just arandom Developer from the internet</h3>
-<p align="center">![image](https://github.com/Cenedikt/Cenedikt/assets/44801967/f8982bd1-3158-4d09-9eb2-8e372c16e9b5)</p>
+![image](https://github.com/Cenedikt/Cenedikt/assets/44801967/f8982bd1-3158-4d09-9eb2-8e372c16e9b5)
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/benedict-goldhorn/</h3>
 <p align="left">
