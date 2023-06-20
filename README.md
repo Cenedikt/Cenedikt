@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Benedict</h1>
-<h3 align="center">I am just arandom Developer from the internet</h3>
-![image](https://github.com/Cenedikt/Cenedikt/assets/44801967/f8982bd1-3158-4d09-9eb2-8e372c16e9b5)
+<h3 align="center">I am just a random Developer from the internet</h3>
+
+![meme](https://github.com/Cenedikt/Cenedikt/assets/44801967/4ff8dedb-bf6a-4a2b-9290-d2ebc9b1b25e)
+
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/benedict-goldhorn/</h3>
 <p align="left">
