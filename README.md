@@ -3,6 +3,7 @@
 
 ![meme](https://github.com/Cenedikt/Cenedikt/assets/44801967/4ff8dedb-bf6a-4a2b-9290-d2ebc9b1b25e)
 
+<img src="https://github.com/Cenedikt/Cenedikt/assets/44801967/4ff8dedb-bf6a-4a2b-9290-d2ebc9b1b25e">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
