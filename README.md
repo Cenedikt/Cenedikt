@@ -4,10 +4,6 @@
   <img src="https://github.com/Cenedikt/Cenedikt/assets/44801967/b69915d5-bbbd-4a5b-bad9-b7b6c8b56f33", width="450", height= 300>
 </p>
 
-![image]
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/benedict-goldhorn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benedict-goldhorn/" height="30" width="40" /></a>
