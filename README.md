@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benedict</h1>
 <h3 align="center">I am just a random Developer from the internet</h3>
+<p align="center">
+  <img src="https://github.com/Cenedikt/Cenedikt/assets/44801967/4ff8dedb-bf6a-4a2b-9290-d2ebc9b1b25e", width="200", height= 300>
+</p>
 
-![meme](https://github.com/Cenedikt/Cenedikt/assets/44801967/4ff8dedb-bf6a-4a2b-9290-d2ebc9b1b25e)
-
-<img src="https://github.com/Cenedikt/Cenedikt/assets/44801967/4ff8dedb-bf6a-4a2b-9290-d2ebc9b1b25e">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
