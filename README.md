@@ -4,6 +4,9 @@
   <img src="https://github.com/Cenedikt/Cenedikt/assets/44801967/4ff8dedb-bf6a-4a2b-9290-d2ebc9b1b25e", width="450", height= 300>
 </p>
 
+![image](https://github.com/Cenedikt/Cenedikt/assets/44801967/b69915d5-bbbd-4a5b-bad9-b7b6c8b56f33)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
